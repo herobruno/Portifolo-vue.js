@@ -22,6 +22,6 @@ O projeto Portifolio-vue.js é um projeto simples desenvolvido para explorar e t
 6. Observe as animações avançadas e interativas incorporadas ao projeto.
 
 **Conclusão:**
-O Portifolio-vue.js é um projeto simples, porém funcional, desenvolvido para explorar e demonstrar as capacidades do Vue.js na construção de interfaces de usuário responsivas e interativas. Com recursos como responsividade e animações avançadas em JavaScript, o projeto oferece uma visão prática e aplicável das capacidades do Vue.js na criação de experiências de usuário modernas e atraentes.
+O Portifolio-vue.js é um projeto simples, porém funcional, desenvolvido para explorar e demonstrar as capacidades do Vue.js na construção de interfaces de usuário responsivas e interativas. Com recursos como responsividade e animações avançadas em JavaScript, o projeto oferece uma visão prática e aplicável das capacidades do Vue.js na criação de experiências de usuário.
 
-Para mais informações ou suporte, consulte a documentação ou entre em contato conosco.
+
