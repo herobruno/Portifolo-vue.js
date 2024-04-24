@@ -2,6 +2,7 @@
 
 **Descrição:**
 O projeto Portifolio-vue.js é um projeto simples desenvolvido para explorar e testar os recursos do Vue.js, um framework progressivo de JavaScript para a construção de interfaces de usuário. Embora seja um projeto de demonstração, o Portifolio-vue.js foi projetado com responsividade e inclui animações avançadas em JavaScript para melhorar a experiência do usuário.
+https://portifolo-vue-lzdbar6uh-herobrunos-projects.vercel.app/
 
 **Recursos Principais:**
 - **Vue.js:** O projeto utiliza o Vue.js como base para criar componentes reativos e dinâmicos que compõem a interface do usuário.
